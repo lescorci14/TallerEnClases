@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Bracelet</string>
+    <string name="bienvenido">Welcome to Our Store</string>
+    <string name="cantidad">Quantity</string>
+    <string name="dije">Pendant</string>
+    <string name="dolar">USD</string>
+    <string name="material">Material</string>
+    <string name="pesos">Pesos</string>
+    <string name="moneda">USD/Pesos</string>
+    <string name="tipo">Type</string>
+    <string name="enviar">Send</string>
+    <string name="ancla">Anchor</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Cowhide</string>
+    <string name="martillo">Hammer</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oro_rosado">Rose Gold</string>
+    <string name="plata">Silver</string>
+    <string name="error1">Type your Amount</string>
+    <string name="compra">Your Purchase</string>
+    <string name="parte1">Cost for your purchase:</string>
 </resources>
